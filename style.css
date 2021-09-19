@@ -1,0 +1,31 @@
+@font-face{
+    font-family: segmentFont;
+    src: url(DSEG7Classic-Bold.ttf);
+}
+
+h1{
+    font-family: segmentFont;
+    color: #0f0;
+    text-shadow: #333 3px 3px 1px;
+    text-align: center;
+    font-size: 300px;
+}
+
+p{
+    font-family: segmentFont;
+    color: #667
+    text-shadow: #333 3px 3px 1px;
+    text-align: center;
+    padding-top: 190px;
+    font-size: 40px;
+}
+
+body{
+    background-color: black;
+}
+
+/* defcon 1 - fff */
+/* defcon 2 - fe0000 */
+/* defcon 3 - ff0 */
+/* defcon 4 - 0f0 */
+/* defcon 5 - 0080ff */
